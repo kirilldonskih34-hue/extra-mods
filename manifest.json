@@ -1,5 +1,13 @@
 {
-  "skin": [],
+  "skin": [
+    {
+      "name": "Мой скин",
+      "url": "https://raw.githubusercontent.com/kirilldonskih34-hue/extra-mods/refs/heads/main/myskin.asi",
+      "desc": "Что мод делает — одно предложение",
+      "author": "kirilldonskih34-hue",
+      "ver": "1.0"
+    }
+  ],
   "gun": [],
   "interior": [],
   "timecycles": []
